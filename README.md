@@ -15,11 +15,12 @@ A simple and intuitive web-based image editor that allows users to apply filters
 - **Reset Filters**: Quickly reset all filters to their default values.
 
 ## Demo  
-  
+### Main Interface   
 ![Image Editor Screenshot](images/img1.png)
 &nbsp;
 ![Image Editor Screenshot](images/img2.png)
 &nbsp;
+### Filters Applied 
 ![Image Editor Screenshot](images/img3.png)
 &nbsp;
 ![Image Editor Screenshot](images/img4.png)
