@@ -17,7 +17,7 @@ A simple and intuitive web-based image editor that allows users to apply filters
 ## Demo  
 Add screenshots or GIFs of the project in action here.  
 Example:  
-![Image Editor Screenshot](path_to_screenshot.png)
+![Image Editor Screenshot](images/img1.png)
 
 ## How to Use  
 1. **Load an Image**  
